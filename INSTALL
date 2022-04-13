@@ -1,0 +1,9 @@
+Building litecoindiamond
+
+See doc/readme-qt.rst for instructions on building litecoindiamond-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of litecoindiamond.
+
+See doc/build-*.txt for instructions on building litecoindiamondd,
+the intended-for-services, no-graphical-interface, reference
+implementation of litecoindiamond.
